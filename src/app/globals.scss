@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300;10..48,400;10..48,500;10..48,600;10..48,700&family=Edu+SA+Beginner:wght@400;600;700&family=Handjet:wght@300;400;600;700&family=Oswald:wght@300;400;500;600;700&family=Raleway:wght@200&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #111;
+	color: #fff;
+	padding: 20px;
+	font-family: 'Edu SA Beginner', cursive;
+}
+h1 {
+	margin-bottom: 20px;
+}
+.btn,
+input {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 6px 30px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	border-radius: 5px;
+	background-color: #fff;
+	color: #111;
+	transition: all 0.3s ease;
+	margin-top: 8px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	max-width: 140px;
+	font-weight: 600;
+	&:hover {
+		background-color: #bcd1e6;
+	}
+}

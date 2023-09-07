@@ -1,0 +1,40 @@
+{
+	"cars": [
+		{
+			"id": 1,
+			"name": "Toyota Tundra",
+			"price": "75537",
+			"image": "/tundra.webp"
+		},
+		{
+			"id": 2,
+			"name": "MacLaren P1",
+			"price": "134394",
+			"image": "/maclaren2.webp"
+		},
+		{
+			"id": 3,
+			"name": "Mercedes-Benz S-Class",
+			"price": "111230",
+			"image": "/mercedes-benz-s-2.webp"
+		},
+		{
+			"id": 4,
+			"name": "Audi RS 6",
+			"price": "176948",
+			"image": "/audi-rs-6.webp"
+		},
+		{
+			"id": 5,
+			"name": "Subaru Impreza",
+			"price": "70394",
+			"image": "/subaru-impreza.webp"
+		},
+		{
+			"id": 6,
+			"name": "Mazda RX7",
+			"price": "100039",
+			"image": "/mazda-rx7.webp"
+		}
+	]
+}
